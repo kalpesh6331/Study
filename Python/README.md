@@ -4,3 +4,4 @@
 | 002 | Array_Plus_Minus.py  | Given an array of integers, calculate the fractions of its elements that are positive, negative, and are zeros |
 | 003 | Stair_Case.py | Consider a number n, then create a staircase of the "#" shown in the problem |
 | 004 | Min_Max_Sum.py | Given five positive integers, find the minimum and maximum values that can be calculated by summing exactly four of the five integers |
+| 005 | Birthday_Cake_Candles.py | Simply find out occurrance of the largest number in given list |
