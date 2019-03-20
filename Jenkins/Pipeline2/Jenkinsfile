@@ -34,5 +34,10 @@ pipeline {
         }
       }
     }
+    stage('Publish Build') {
+      steps {
+        sh 'echo "Publish build"'
+      }
+    }
   }
 }
